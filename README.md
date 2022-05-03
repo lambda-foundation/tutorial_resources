@@ -1,2 +1,2 @@
-# tutorial_resources
+# Tutorial Resources
 A repo full of tutorials for new beginners.
