@@ -7,5 +7,5 @@ Python Tutorials:
 
 Linux/Bash Tutorials:
 
-- Windows:
+- **If you are on windows you must complete the following tutorial**:
   - [Linux installation on windows 11 (wsl)](https://www.youtube.com/watch?v=FQ6ahcJOVz0)
